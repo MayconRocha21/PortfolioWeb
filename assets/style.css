@@ -159,7 +159,8 @@ section .title::after {
 /* home section styling */
 .home {
   display: flex;
-  background: url("./images/img-fundo1.jpeg") no-repeat center;
+  background: url("./images/img-fundo2.jpeg") no-repeat;
+  background-position: center;
   height: 100vh;
   color: #fff;
   min-height: 500px;
@@ -187,7 +188,7 @@ section .title::after {
   margin: 5px 0;
 }
 .home .home-content .text-3 span {
-  color: #015532;
+  color: #fff;
   font-weight: 500;
 }
 .home .home-content a {
@@ -230,6 +231,7 @@ section .title::after {
 }
 .about .about-content .right .text span {
   color: #015532;
+  font-size: 30px;
 }
 .about .about-content .right p {
   text-align: justify;
@@ -485,7 +487,7 @@ footer {
 /* responsive media query start */
 @media (max-width: 1104px) {
   .about .about-content .left img {
-    height: 350px;
+    height: auto;
     width: 350px;
   }
 }
