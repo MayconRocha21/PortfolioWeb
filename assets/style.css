@@ -209,9 +209,7 @@ section .title::after {
 }
 
 /* about section styling */
-.about {
-  background-color: #333;
-}
+
 .about .about-content .left {
   width: 45%;
 }
@@ -302,9 +300,7 @@ section .title::after {
 }
 
 /* skills section styling */
-.skills {
-  background-color: #333;
-}
+
 .skills .skills-content .column {
   width: calc(50% - 30px);
 }
@@ -474,7 +470,7 @@ section .title::after {
 }
 /* footer section styling */
 footer {
-  background: #333;
+  background: #111;
   padding: 15px 23px;
   color: #fff;
   text-align: center;
