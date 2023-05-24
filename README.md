@@ -1,2 +1,7 @@
-# PortfolioWeb
-Portfolio em construnção
+# Portfolio Em construção
+
+# Tecnologias utilizadas
+
+- HTML
+- CSS
+- JAVASCRIPT
