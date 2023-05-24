@@ -198,14 +198,15 @@ section .title::after {
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
-  font-weight: 400;
+  font-weight: 500;
   border-radius: 6px;
   border: 2px solid #015532;
   transition: all 0.3s ease;
 }
 .home .home-content a:hover {
   color: #015532;
-  background: none;
+  background: #fff;
+  font-weight: 500;
 }
 
 /* about section styling */
